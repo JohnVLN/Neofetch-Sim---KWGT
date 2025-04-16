@@ -22,5 +22,7 @@ $mi(title)$ --- $mi(artist)$
 ```
 In the formula, `$if(nc(aname, 0) = "", "Device", "[c=#00FF00]" + nc(aname, 0) + "[/c]")$` will check for bluetooth devices (for speakers and wireless buds and headphones) , if nothing is connected, it will display "Device", if there is, it will display its name.
 
+<img src="https://github.com/JohnVLN/Neofetch-Sim---KWGT/blob/b33bb9d5d3092212f165df4c0c971a69331adbf0/111aaaaaaaaaaaa.jpg" alt="Widget" width="400">
+
 ASCII art in the image is the logo from Bungie's Marathon.
 ASCII art from images can be made [here](https://www.asciiart.eu/image-to-ascii).
